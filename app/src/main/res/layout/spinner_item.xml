@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/categorySpinner"
+    style="?android:attr/spinnerItemStyle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="@dimen/_5sdp"
+    android:fontFamily="@font/alata"
+    android:ellipsize="marquee"
+    android:paddingVertical="@dimen/_2sdp"
+    android:singleLine="true"
+    android:text="spinner"
+    android:background="@color/white"
+    android:textAlignment="inherit"
+    android:textColor="@color/app_bg"
+    android:textSize="@dimen/_15ssp" />
+

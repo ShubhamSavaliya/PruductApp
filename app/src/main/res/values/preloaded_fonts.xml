@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/abeezee</item>
+        <item>@font/alata</item>
+        <item>@font/allerta</item>
+        <item>@font/amarante</item>
+        <item>@font/amiko</item>
+        <item>@font/armata</item>
+        <item>@font/asar</item>
+        <item>@font/crete_round</item>
+        <item>@font/francois_one</item>
+        <item>@font/hind_guntur</item>
+        <item>@font/tinos</item>
+        <item>@font/viga</item>
+    </array>
+</resources>
